@@ -3,7 +3,7 @@
 
 # FunPay Scripts 0.2 (Moded)
 
-![FunPay](https://i2.piccy.info/i9/923f1064ca9023690d7f4b42bc2a9631/1642677696/32853/1455436/FunPay.png)
+![FunPay](https://i.ibb.co/Y3Rxprx/8b489602-2d74-4052-87d5-b8c5ddeb2411.png)
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-squaree&logo=javascript&logoColor=F7DF1E)
 [![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-squaree&logo=discord&logoColor=white)](https://discord.gg/xBFKJc6QRr)
