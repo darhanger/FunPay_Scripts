@@ -5,11 +5,11 @@
 
 ![FunPay](https://i.ibb.co/Y3Rxprx/8b489602-2d74-4052-87d5-b8c5ddeb2411.png)
   
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-squaree&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 [![License](https://img.shields.io/github/license/darhanger/FunPay_Scripts?style=flat-square)](https://github.com/darhanger/FunPay_Scripts/releases) 
 [![Last Release](https://img.shields.io/github/v/release/darhanger/FunPay_Scripts?style=flat-square)](https://github.com/darhanger/FunPay_Scripts)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/FunPay_Scripts/total?style=flat-square)](https://github.com/darhanger/FunPay_Scripts/releases)
-[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-squaree&logo=discord&logoColor=white)](https://discord.gg/xBFKJc6QRr)
+[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ZKFkvrzaU4)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=WMPGGC32C7U7U)
     
 Simple script for sellers / Простые скрипты для продавцов.
